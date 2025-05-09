@@ -41,7 +41,7 @@ TEMPLATES = [
 
 11.建立超級使用者
 - 同步資料表
-    - python manage.py migrate
+    - python manage.py migrate (同步)
 - python manage.py createsuperuser
 
 12.新增資料表
